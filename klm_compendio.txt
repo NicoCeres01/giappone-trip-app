@@ -1,0 +1,120 @@
+Source: https://raw.githubusercontent.com/NicoCeres01/giappone-trip-app/main/klm_compendio.txt
+
+---
+
+﻿Database Testuale Operativo: Viaggio Giappone 2026
+1. LOGISTICA DEI TRASPORTI E SISTEMI DI PAGAMENTO
+7: Sistemi Ferroviari: Analisi Comparativa
+8: Tipologia,Costi (Appross.),Tempi (Tokyo-Osaka),Limitazioni e Specifiche Tecniche
+9: JR Pass (Nazionale),Variabile (>300€),2.5h (Shinkansen),"Valido su rete JR, Shinkansen e Loop Lines (Tokyo/Osaka). Giustificato solo se il costo supera il singolo A/R Tokyo-Osaka (~300€)."
+10: Biglietto Singolo,~300€ A/R,2.5h,Acquistabile presso macchinette o uffici JR. Consigliato per itinerari a bassa frequenza di spostamento interurbano.
+11: Reti Metropolitane,Variabile per tratta,N/A,Reti estese in tutti i centri primari. Kyoto limitata a due linee. Pagamento tramite IC Card o biglietto fisico su base distanza.
+12: Tessere Magnetiche Prepagate (IC Cards)
+13: Le tessere sono interoperabili a livello nazionale per trasporti e pagamenti presso convenience store (konbini).
+14: * Suica:  Emessa a Tokyo (JR East) e Sendai (disponibile specifica "Sendai version").
+15: * Icoca:  Emessa a Osaka, Kyoto, Kobe (JR West).
+16: * Manaca:  Emessa a Nagoya.
+17: * Hayakaken:  Emessa a Fukuoka.
+18: * Paspy:  Emessa a Hiroshima.
+19: * Kitaca:  Emessa a Sapporo.
+20: * Gestione:  Ricarica presso vending machines. In caso di credito insufficiente all'uscita, utilizzare le macchinette di "Fare Adjustment" per il conguaglio.
+21: Aviazione Interna (LCC)
+22: * Vettori Operativi:  Peach, Jetstar, Skymark, Spring Japan, Starflyer.
+23: * Protocollo Meteo:  Durante la stagione dei tifoni (Agosto-Ottobre), prevedere un buffer operativo di 24 ore per possibili cancellazioni o ritardi.
+24: Servizio Autobus Urbani
+25: * Protocollo di Accesso:  Ingresso dalla porta posteriore, monitoraggio del tabellone numerico (importo variabile in base alla fermata di salita), pagamento all'uscita presso il conducente.
+26: * Tariffe Kyoto:  Tariffa fissa urbana o Pass giornaliero bus/metro (1100 yen adulti / 550 yen bambini).
+27: Taxi e Navigazione
+28: * Taxi:  Portiere ad apertura automatica gestite dal conducente; in caso di guasto tecnico, l'apertura avviene manualmente dall'esterno.
+29: * Connettività:  Navigazione GPS via Google Maps mandatoria. Protocollo di acquisizione SIM/eSIM prepagate tramite vendor specializzati (es. Amazon Italia) prima della partenza.
+30: 2. PROTOCOLLI CULTURALI, ETICHETTA E BENESSERE
+31: Protocollo Onsen (Sorgenti Termali)
+32: * Accesso:  Separazione per genere, nudità integrale obbligatoria. Divieto di costumi da bagno.
+33: * Igiene:  Obbligo di doccia preventiva in posizione seduta prima dell'ingresso in vasca.
+34: * Tatuaggi:  Divieto di accesso in strutture pubbliche; consentito solo se interamente coperti da cerotti waterproof.
+35: * Riferimenti Storici:  Benefici medicinali codificati nel  Nihon Shoki  (VIII secolo).
+36: * Toji:  Pratica di balneoterapia curativa della durata di 1.500 anni; prevede soggiorni prolungati per l'assorbimento minerale.
+37: Architettura Religiosa
+38: * Santuari Scintoisti:  Caratterizzati da portali  Torii  e cromatismi arancione/vermiglio.
+39: * Templi Buddisti:  Caratterizzati da palette cromatiche nero/rosso.
+40: Discipline Tradizionali e Benessere
+41: * Arti (Vie):   Chado  (tè),  Kodo  (incenso),  Kado  (fiori).
+42: * Rilassamento:   Zazen  (meditazione seduta in templi/giardini) e  Shinrin-yoku  (bagno di foresta terapeutico).
+43: Norme Sociali Mezzi Pubblici
+44: * Comunicazione:  Divieto assoluto di conversazioni telefoniche; suonerie in modalità silenziosa.
+45: * Valuta:  Società  cash-oriented . Prelievi consigliati presso ATM dei convenience store (commissioni variabili).
+46: 3. HUB REGIONALE: TOKYO (DATI TECNICI)
+47: Distretti e Funzioni Logistiche
+48: * Shinjuku / Shibuya:  Interscambi primari; massima densità di intrattenimento notturno e retail.
+49: * Akihabara:  Hub specializzato in elettronica, anime e cultura pop.
+50: * Asakusa:  Area a conservazione storica (Tempio Senso-ji).
+51: * Harajuku / Omotesando:  Distretti verticali su moda ed estetica contemporanea.
+52: Specifiche Attrazioni
+53: * Tokyo Skytree:  Torre di trasmissione; prenotazione online obbligatoria per slot orari. Visibilità Monte Fuji condizionata da parametri meteorologici.
+54: * TeamLab:  Museo d'arte digitale immersivo; accesso esclusivo tramite prevendita.
+55: * Palazzo Imperiale:  Strutture interne non visitabili. Accesso limitato a mura perimetrali e giardini esterni.
+56: * Parco di Ueno:  Polo museale nazionale; accesso tramite Loop Line (inclusa in JR Pass).
+57: Logistica Aeroportuale (Narita - NRT)
+58: 
+59: * Trasferimento:  Treno (~1h). Titoli di viaggio acquistabili presso vending machines o uffici JR in aeroporto. Ritiro JR Pass disponibile in loco.
+60: 4. HUB REGIONALE: KYOTO E DINTORNI
+61: Registro Attrazioni e Accessi
+62: * Kinkaku-ji (Padiglione d’Oro):  Bus 101/205 dalla stazione centrale (~45 min).
+63: * Fushimi Inari:  Accesso tramite JR Nara Line (Stazione Inari). Migliaia di  torii  su percorso escursionistico.
+64: * Kiyomizu-dera:  Fondato nel 1633. Accesso tramite camminata in salita (Ninen-zaka/Sannen-zaka). Disponibile percorso  step-free  per mobilità ridotta.
+65: Distretto di Gion
+66: * Etichetta:  Divieto di ripresa fotografica per Maiko/Geiko senza autorizzazione.
+67: * Gion Corner:  Performance culturali (Koto, Bunraku, Danza); costo 5500 yen.
+68: * Architettura:  Starbucks Machiya (townhouse di 100 anni) con interni in tatami.
+69: Area di Arashiyama
+70: * Accesso:  JR Sagano Line (Stazione Saga-Arashiyama).
+71: * Monkey Park (Iwatayama):  Apertura 09:00-16:00. Richiede escursione in salita di 20 minuti. Divieto di alimentare gli animali (macachi giapponesi) all'esterno delle aree designate.
+72: * Siti:  Bamboo Grove, Tenryu-ji (Giardino Zen), Gio-ji (Giardino di muschio).
+73: 5. HUB REGIONALE: OSAKA E KANSAI
+74: Zone Chiave
+75: * Umeda:  Business hub; Grand Front Osaka (Retail tecnico/lusso).
+76: * Minami (Dotonbori/Namba):  Distretto ad alta densità di ristorazione e insegne luminose.
+77: * Osaka Bay:  Località dell'acquario Kaiyukan (2700 yen).
+78: Dati Operativi Monumenti
+79: * Osaka Castle:  Ingresso 600 yen. Nota tecnica: ricostruzione in cemento con funzione di museo storico.
+80: * Umeda Sky Building:  Osservatorio Kuchi Teien a 170 metri; costo 1500 yen.
+81: Mercati e Shopping
+82: * Kuromon Market:  Focus ittico (Fugu, Otoro Nigiri da Maguro Entoki).
+83: * Shinsaibashi-suji:  Galleria coperta di 600m. Presenza di  Castella Ginso  (fondata nel 1952), specializzata in dolci di origine portoghese.
+84: Escursioni Tecniche
+85: * Nara:  40 min da Kyoto/Osaka. Tempio Todai-ji: ospita Buddha di bronzo da 15 metri e colonna con foro per passaggio rituale.
+86: * Kobe:  1h da Kyoto/Osaka. Area Harborland e Monte Rokko.
+87: 6. COMPENDIO GASTRONOMICO E SETTORI SPECIFICI
+88: Classificazione del Sakè (Nihonshu)
+89: La qualità è determinata dalla purezza dell'acqua e dal grado di brillatura (polishing ratio) del riso.
+90: * Junmai-shu:  100% riso, zero alcol distillato aggiunto.
+91: * Ginjo-shu:  Grado di brillatura elevato, fermentazione a bassa temperatura.
+92: * Honjozo-shu:  Aggiunta minima di alcol distillato per enfatizzare il profilo aromatico.
+93: Specialità per Area
+94: * Osaka:  Takoyaki, Okonomiyaki, Kushikatsu.
+95: * Kyoto:  Yuba (pelle di tofu), Wagashi (pasticceria tradizionale).
+96: * Nagasaki:  Castela (pan di spagna).
+97: Format di Ristorazione
+98: * Depachika:  Food hall seminterrate (es. Daimaru, Hankyu) per bento e souvenir gastronomici.
+99: * Fire Ramen (Menbakaichidai):  Ramen con tecnica di finitura a fiamma viva (Kyoto).
+100: * Izakaya:  Taverne tradizionali per consumo condiviso.
+101: 7. LOGICA DELL'ITINERARIO (17 GIORNI)
+102: * Giorni 1-3 (Tokyo):  Arrivo NRT. Asakusa, Skytree, Akihabara, Harajuku, TeamLab, distretto Shinbashi.
+103: * Giorni 4-6 (Kyoto):  Shinkansen (2.5h). Kinkaku-ji, Ryoan-ji, Gion, Fushimi Inari (JR Nara Line), Arashiyama (JR Sagano Line), Kiyomizu-dera.
+104: * Giorno 7 (Nara):  Day trip ferroviario (Todai-ji).
+105: * Giorno 8 (Osaka/Kobe):  Day trip da Kyoto. Castello di Osaka, Umeda Sky Building.
+106: * Giorno 9 (Hiroshima/Nagasaki):  Spostamento Shinkansen. Focus siti storici.
+107: * Giorni 10-13 (Estensione Sud):  Volo LCC per Ishigaki (comfort/servizi) o Miyakojima (tranquillità/famiglie).
+108: * Giorni 14-17 (Tokyo/Rientro):  Rientro via NRT. Shopping finale zona Roppongi/Don Quijote. Chiusura operazioni.
+109: 8. EMERGENZA E DATI DI SUPPORTO
+110: Protocollo di Emergenza
+111: * Numeri di Pronto Intervento:  Da reperire aggiornati sul portale ufficiale  JNTO  (https://www.japan.travel/it/it/).
+112: * Gestione Tifoni:  Tra Agosto e Ottobre, prevedere protocollo di buffer di 24 ore per gestione cancellazioni voli/treni.
+113: * Smarrimento IC Card:  Rivolgersi agli uffici stazioni principali per blocco/recupero credito (se registrate).
+114: Checklist Souvenir Strategici
+115: * Don Quijote (Donki):  Snack, cosmetica, elettronica di massa.
+116: * Grand Front Osaka:
+117: * Iori:  Asciugamani Imabari.
+118: * Kaneko Optical:  Occhiali artigianali (est. 1958).
+119: * Hyozaemon:  Bacchette in box di legno.
+120: * Kunjyukan (Kyoto):  Incenso tradizionale e accessori per  Kodo .
