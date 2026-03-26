@@ -153,7 +153,7 @@ if tab_selection == "📍 Oggi":
             d = haversine(st.session_state.get('my_lat', lat), st.session_state.get('my_lon', lon), act["lat"], act["lon"])
             st.markdown(f'<div class="card"><h4>{act["name"]}</h4><p>📏 {d:.1f} km da te</p></div>', unsafe_allow_html=True)
             u = f"https://www.google.com/maps/dir/?api=1&destination={act['lat']},{act['lon']}&travelmode=transit"
-            st.link_button(f"📍 Vai a {act['name']}", u, use_container_width=True, key=f"btn_{act['name']}")
+            st.markdown(f"**[📍 Vai a {act['name']}]({u})**", unsafe_allow_html=True)
 
 # SEZIONE 2 - TUTTO IL VIAGGIO
 elif tab_selection == "🗺️ Viaggio":
