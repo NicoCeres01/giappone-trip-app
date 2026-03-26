@@ -64,7 +64,7 @@ def get_gemini_response(user_prompt, my_lat=None, my_lon=None):
         # AGGIORNATO: API Key sicura via st.secrets
         api_key = st.secrets["GEMINI_API_KEY"]
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-pro")
+        model = genai.GenerativeModel("gemini-2.0-flash")
         
         # AGGIORNATO: Caricamento 3 file con percorsi assoluti robusti
         base_path = os.path.dirname(__file__)
