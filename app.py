@@ -4,7 +4,7 @@ import math
 from datetime import datetime
 import pytz
 import google.generativeai as genai
-import geocoder  # AGGIORNATO: Geocodifica reale via IP
+import requests  # AGGIORNATO: GPS via IP API (no extra lib)
 
 # ─────────────────────────────────────────
 # CONFIGURAZIONE PAGINA
@@ -47,13 +47,11 @@ st.markdown("""
 @st.cache_data(ttl=600)
 def get_user_gps():
     try:
-        g = geocoder.ip('me')
-        if g.ok:
-            return g.latlng[0], g.latlng[1]
+        resp = requests.get('https://ipapi.co/json/', timeout=5)
+        data = resp.json()
+        return data.get('latitude', 35.6895), data.get('longitude', 139.6917)
     except:
-        pass
-    return 35.6895, 139.6917  # Fallback: Tokyo Shinjuku
-
+        return 35.6895, 139.6917  # Tokyo default
 # ─────────────────────────────────────────
 # FUNZIONE GEMINI (RAG Multi-File - AGGIORNATO)
 # ─────────────────────────────────────────
